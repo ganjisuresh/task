@@ -1,0 +1,20 @@
+{
+  "name": "mytasks",
+  "version": "1.0.1",
+  "description": "c",
+  "main": "final.js",
+  "scripts": {
+    "test": "nocomments"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
